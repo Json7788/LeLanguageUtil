@@ -1,1 +1,1 @@
-include ':app', ':lelanguageutil'
+include ':app', ':lelanguageutil', ':lecommon'
